@@ -1,0 +1,21 @@
+/* line 1, ../sass/katakoe.scss */
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* line 5, ../sass/katakoe.scss */
+#page {
+  min-height: 600px;
+}
+
+/* line 8, ../sass/katakoe.scss */
+footer {
+  border-top: solid 1px #c1c1c1;
+  padding: 20px;
+  background-color: #f7f7f7;
+}
+/* line 13, ../sass/katakoe.scss */
+footer p {
+  font-size: 12px;
+}
